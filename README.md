@@ -10,6 +10,8 @@ All you have to do is:
 3. Assign the discounts by country group
 4. Paste the script tag on your website
 
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
